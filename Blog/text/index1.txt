@@ -1,0 +1,235 @@
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>昨天写的文章，一大早发出去点开预览的时候发现格式都错乱了。又急着去上班就把文章给删除了。本来是周一更的习惯也就打破，放到周二去更新了。今天周二，度过了烦人的周一，又开始一个新的工作日。</br>
+</p>
+<p>这篇文章起初是想做：有哪些适合新手练手的前端项目？但是我发现我一个人没法整理，于是正在邀请几位大大朋友在帮忙。所以这个主题暂时空缺一周或是两周，在下周或是下下周的时候可能会补上来。也欢迎各位朋友在学习过程中碰到不错的练习项目可以积极的推荐。</br>
+</p>
+<p>学习编程专栏连载的练手项目篇，如有兴趣可以访问前三篇：</br></p>
+<p>有哪些适合新手练手的Java项目？ - 学习编程 - 知乎专栏</br></p>
+<p>有哪些适合新手练手的Java Web项目？ - 学习编程 - 知乎专栏有哪些适合新手练手的Python项目？</br></p>
+
+<p>本篇文章推荐分享五篇关于前端资源汇总的帖子，希望可以帮助到学习前端的你。同时你可以去看一看前端技能树喔：前端技能</br></p>
+
+<p>第一篇：前端收藏夹 ，以及他们的github地址：GitHub - w3ctrain/w3ctrain.github.io: w3ctrian前端收藏夹</br></p>
+
+<p>以下是目录，更多信息请访问他们的主页：</br></p>
+<p>前端工具</br></p>
+
+<p>自动化： Gulp 、 Grunt 、百度Fis 、Ant、Yeoman、Codekit、Koala、Webpack</br></p>
+
+<p>预编译： Slim、Haml、Coffeescript、Sass、BabelJs、Jade、Less、Stylus、Pleeease、PostCSS、</br></p>
+
+<p>查找工具：CssTriggers、screensiz.es、友盟指数、javascripting、builtwith、thetoolbox、stylesheets</br></p>
+
+<p>版本控制：Github、GitCafe、GitLab、Bitbucket、Sourcetree、Cornerstone、版本控制之道、ProGit、廖雪峰的git教程、svn教程</br></p>
+
+<p>编辑器：Sublime Text、Atom、HBuilder、WebStorm、MacDown、UltraEdit、ace、Brackets、LightTable、Visual Studio Code</br></p>
+
+<p>在线编辑：Jsfiddle、Codepen、Jsbin、Runjs、sassmeister</br></p>
+
+<p>调试/测试：Firebug、YSlow、IEDeveloperToolbar、Fiddler、ChromeDevTools、JSLint、JSHint、CSSLint、HTML Validators、UnitJS、Jasmine、BrowserStack、Testem、Dalekjs、NightWatch、Hardy</br></p>
+
+<p>部署流程：YUI Compressor、UglifyJs、CleanCss、JSDoc</br></p>
+
+<p>高效工具：Dash、奇妙清单、Omnigraffle</br></p>
+
+<p>其它：CodeIf、H5Viewer、anvil、cssmixins、JSON Server、ngrok、Glyphter、CSSStats、spritegen、placehold.it、MWeb、browsersync.io、kjson.com、strut.io、Reveal.js、iconverticons.com、智图、longshadows、cubic-bezier、browserhacks、tool.oschina.net、Pagespeed、icomoon.io、circulus、Mock.js</br></p>
+<p>博客/社区/资讯</br></p>
+
+<p>国内综合：w3ctech、w3cplus、w3cfuns、前端乱炖、前端观察、segmentfault、html5tricks、腾讯ISUX、百度EFE、奇舞团、淘宝UED、前端里、div.io、慕课网、Codecademy、极客标签、InfoQ中国、WEB前端开发、前端开发博客、爱奇舞——H5.vc、看云、汇智网、伯乐在线</br></p>
+
+<p>国外综合：tutsplus、CSSAnimation、TeamTreehouse、SmashingMagazine、CodyHouse、Echojs、Codeschool、codewars、Html5Rocks、SpeakerDeck、Alistapart、Lynda、DigitalTutors、Ponyfoo.com、tutorialzine</br></p>
+
+<p>前端资讯：CSS-Tricks、WebDesignerNews、FrontEndFont、Sidebar.io、DesignerNews</br></p>
+
+<p>问答社区：StackOverflow、Quora、知乎</br></p>
+
+<p>每日鲜：稀土掘金、开发者头条、极客头条、开发头条</br></p>
+
+<p>前端大牛：Hugo Giraudel、Philip Walton、David Walsh、Sara Soueidan、Paul Irish、玉伯、廖雪峰、阮一峰、勾三股四、张鑫旭、余果、Sofish、糖饼、Evan You、Darren_聂微东、司徒正美、CSS魔法</br></p>
+<p>各类插件</br></p>
+
+<p>滑动/视差：fullPage、swiper、Slick、sliderjs、hammer.js、unslider、Superscrollorama、ScrollMagic、WOW、skrollr、stellar.js、multiscroll.js、iscroll、dragula、waypoints</br></p>
+
+<p>动画/效果：popmotion、velocity、GreenSock-JS、Snapsvg、sketch.js、impress、blast.js、sticky、Colorify.js、nprogress、Mojs、skrollr、typed.js、Effeckt.css、Hover.css、Animatable、Animate.css、CSS3 Animation Cheat Sheet、pagePiling.js、headroom.js、hint.css、SpinKit、CircularProgressButton、css-loaders、pace、two.js、Sequence、ElasticProgress、CSSgram</br>
+
+<p>兼容：Modernizr、bowser、retinajs、picturefill、Normalize.css、Respond、html5shiv、box-sizing-polyfill、elementQuery、css-element-queries</br></p>
+
+<p>Chrome：clear-cache、EditThisCookie、Full Page Screen Capture、HTML5 Outliner、JSONView、Postman、User-Agent Switcher for Chrome、Window Resizer、页面自动刷新、Chrome Sniffer Plus</br></p>
+
+<p>模板工具：Handlebars、Mustache、artTemplate、nunjucks、transparency、doT</br></p>
+
+<p>其他：zxcvbn、Validation、moment、primer、Please.js、qrcode、dynamics.js、smartcrop.js、lazyload、imagesloaded、unveil、fastclick、jQuery Form Plugin、jQuery-File-Upload、sweetalert、toolbar、tooltipster、video.js、Font-Awesome、minigrid、bricks.js</br>
+<p>主流框架</br></p>
+
+<p>综合：React、Bootstrap、Foundation、SemanticUI、Purecss、UIKit、妹子 UI、Alice、materialize、material-design-lite、Html5Boilerplate、Material design、Lightning Design System、Vux</br>
+
+<p>MVVM：AngularJS、Vue.js、Backbone、Avalon、knockout</br></p>
+
+<p>模块化：Require.js、Sea.js</br></p>
+
+<p>JavaScript：JQuery、Zepto、prototypejs、emberjs、MooTools、Dojo、meteor、Domcom</br></p>
+
+<p>Hybrid：React-Native、Nativescript、Phonegap、Ionic、Crosswalk、Meteor、Electron</br></p>
+
+<p>游戏：Construct 2、ImpactJS、CreateJS、Three.js、PlayCanvas、Pixi、Hilo</br></p>
+<p>手册/书籍</br></p>
+
+<p>书籍：《JavaScript高级程序设计（第3版）》、《单页Web应用:JavaScript从前端到后端》、《JavaScript语言精粹》、《JavaScript DOM编程艺术 （第2版）》、《编写可维护的JavaScript》、《Web全栈工程师的自我修养》、《深入浅出Node.js》、《响应式Web设计》、《精通CSS》、《高性能JavaScript》、《You-Dont-Know-JS》</br>
+
+<p>快速入门：学习CSS布局、Learn to Code HTML & CSS、Learn to Code AdvancedHTML & CSS、前端技能树</br></p>
+
+<p>精选文章：如何跟上前端开发的最新前沿、移动H5前端性能优化指南、那些过目不忘的H5页面、玩转HTML5移动页面、MobileWeb 适配总结、搞定这些疑难杂症，向css3动画说yes</br>
+
+<p>手册/规范：前端开发者手册、前端开发笔记本、Material Design 中文版、CSS规范、JavaScript Style Guide、Sass规范、ECMAScript3/5、ECMAScript6、W3C、CommonJS Modules</br>
+
+<p>翻译文章：学习flexbox属性、使用Velocity.js改善用户体验</br></p>
+<p>设计/交互</br></p>
+
+<p>灵感来源：Dribbble、SiteInspire、Httpster、设计达人、PhotoshopLady、站酷、UI中国、uiparade、365psd、Behance、Naldz Graphics、mobile-patterns、wa.design、pinterest、花瓣、堆糖、觅处、视觉中国</br>
+
+<p>学点设计：TutsplusDesign、优设网、PSDFAN、Envato、abduzeedo、Interactive Guide to Blog Typography、24Ways</br></p>
+
+<p>交互体验：Navnav、Codyhouse、腾讯ISUX、淘宝UED、阿里巴巴中文站、阿里巴巴国际站、阿里妈妈UED、百度移动用户体验部、百度搜索用户体验中心、腾讯TGideas、腾讯MXD、腾讯UED、腾讯CDC、新浪UDC、迅雷CUED、uxbooth、tympanus</br>
+
+<p>配色工具：Adobe color、FLATUI、Thedayscolor、colrd、Nipponcolors、Nolourlovers、中国传统色、日本传统色、Fashiontrendsetter</br></p>
+
+<p>第二篇：github上值得关注的前端项目 以及他们的github地址，欢迎关注：GitHub - hawx1993/github-FE-project: A collection about github front-end project</br>
+
+<p>一小部分目录</br></p>
+<p>综合/资源</br>
+</p>
+<p>frontend-dev-bookmarks 一个巨大的前端开发资源清单。star:15000</br></p>
+
+<p>front-end-collect 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者。star:860</br></p>
+
+<p>Front-end-Interview-questions 史上最全前端开发面试问题及答案</br></p>
+
+<p>f2e-hub 包含Animation，UI，dialog，Carousels，color，image，workflow等。star:100</br></p>
+
+<p>awesome-javascript 一系列很棒的javascript 库，资源。star:3100</br></p>
+
+<p>fks 前端技能汇总，包含前端知识架构，后端知识，linux，书籍推荐等。star:4000</br></p>
+
+<p>node123 node.js中文资料导航。star:1200</br></p>
+
+<p>mobile-web-favorites 移动端web开发收藏夹。star:200</br></p>
+
+<p>gulp-book Gulp 入门指南</br></p>
+
+<p>Front-end-tutorial 最全的资源教程-前端涉及的所有知识体系。（12.25更新）</br></p>
+<p>canvas/数据可视化</br></p>
+
+<p>echarts 基于Canvas，纯Javascript图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。star:6900</br></p>
+
+<p>Chart.js 使用<canvas>标签的简易HTML5图表。star:14600</br></p>
+
+<p>sketch.js 跨平台JavaScript创意编码框架，gzip压缩后仅有2kb。star:1500</br></p>
+
+<p>d3 一个基于数据操作文档的js数据可视化框架，最流行的可视化库之一。star:38000</br></p>
+
+<p>zrender 一个轻量级的Canvas类库，MVC封装，数据驱动，提供类DOM事件模型，让canvas绘图大不同！star:850</br></p>
+
+<p>c3 一个基于 D3.js 的可重用 JavaScript 图表库。几乎零学习曲线。star:4.5K（6.28更新）</br></p>
+
+<p>img2css 将图片转为纯css代码。（11.3更新）</br></p>
+
+<p>第三篇：网站：『引』最全前端资源汇集（更新网址），github地址：GitHub - JacksonTian/fks: 前端技能汇总 Frontend Knowledge Structure （github地址），号称最全的资源教程－前端涉及的所有知识体系。</br>
+</p>
+<p>部分目录（此处所有目录链接到主页），详细信息请访问具体网址和github</br></p>
+<ul>1 · 综合类</br>
+2 · 入门类</br>
+3 · 工具类</br>
+4 · 综合效果搜索平台</br>
+5 · 团队Blog|周报类</br>
+6 · 开发中心</br>
+7 · Nodejs</br>
+8 · 综合API</br>
+9 · Ecmascript</br>
+10 · Js template</br>
+11 · HTML5(HTML)</br>
+12 · CSS3(CSS)</br>
+13 · Angularjs</br>
+14 · React</br>
+15 · vue</br>
+16 · 移动端API</br>
+17 · jQuery</br>
+18 · D3</br>
+19 · Requriejs</br>
+20 · Seajs</br>
+21 · Less,sass</br>
+22 · Markdown</br>
+23 · 兼容性</br>
+24 · UI相关</br>
+25 · 其它API</br>
+26 · 图表类</br>
+27 · 正则</br>
+28 · 前端规范</br>
+29 · PHP</br>
+30 · 各大公司开源项目</br>
+31 · 常用</br>
+32 · 算法</br>
+33 · 移动端</br>
+34 · JSON</br>
+35 · 焦点图</br>
+36 · Ext, EasyUI, J-UI 及其它各种UI方案</br>
+37 · 页面 社会化 分享功能</br>
+38 · 富文本编辑器</br>
+39 · 前端概述</br>
+40 · Gulp</br>
+41 · Grunt</br>
+42 · Fis</br>
+43 · pc图轮</br>
+44 · 移动端图轮</br>
+45 · 文件上传</br>
+46 · 模拟select</br>
+47 · 取色插件</br>
+48 · 城市联动</br>
+49 · 剪贴板</br>
+50 · 简繁转换</br>
+51 · 表格 Grid</br>
+52 · 在线演示</br>
+53 · 常规优化</br>
+54 · 优化工具</br>
+55 · 在线工具</br>
+56 · 前端架构</br>
+57 · 推荐作品</br>
+58 · 简历模板</br>
+59 · 面试题</br>
+60 · iconfont</br>
+61 · Fiddler</br>
+62 · Chrome</br>
+63 · Firebug</br>
+64 · 移动,微信调试</br>
+65 · iOS Simulator</br>
+66 · Image</br>
+67 · 浏览器同步</br>
+68 · 在线PPT制作</br>
+69 · 前端导航网站</br>
+70 · 常用CDN</br>
+71 · Git</br>
+72 · 各种日期日历</br>
+73 · Date library</br>
+74 · 其它</br>
+75 · 效果类</br>
+76 · 弹出层</br>
+77 · 优秀JavaScript项目</br></ul>
+
+<p>第四篇： 网站Github资源收集 ，此篇没有找到github地址，作者整理了自己在Github中的starred项目可以直接在此网站进行访问。</br></p>
+
+<p>部分目录：</br></p>
+
+<ul>Github资源收集 -- HTML/CSS</br>
+Github资源收集 -- Shim/Polyfill</br>
+Github资源收集 -- 可能是常用的工具库</br>
+Github资源收集 -- 代码处理工具</br>
+Github资源收集 -- 移动端</br>
+Github资源收集 -- 测试框架和断言库</br>
+Github资源收集 -- Node.js</br>
+Github资源收集 -- 模板引擎</br>
+Github资源收集 -- 数据可视化</br>
+Github资源收集 -- React及相关库</br>
+Github资源收集 -- Angular.js</br>
+Github资源收集 -- 其他优秀js框架</br>
+Github资源收集 -- 函数式编程相关 ..............</br>
+</ul>
+
+<p>第五篇：maybe你得英语水平比较高，你可以看这里：史上最全GitHub前端开发集锦。同样，他的github地址：GitHub - sindresorhus/awesome: Curated list of awesome lists</br></p>
