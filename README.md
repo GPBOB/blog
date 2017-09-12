@@ -1,4 +1,3 @@
 # blog
 a personal blog
-what's this?
-oh my god!
+一个web前端新手的练习项目
